@@ -1,0 +1,6 @@
+name: color-contrast
+description: The `color-contrast` CSS function returns the color in a list with the highest contrast relative to a reference color.
+spec: https://drafts.csswg.org/css-color-6/#colorcontrast
+group: color-types
+compat_features:
+  - css.types.color.color-contrast
