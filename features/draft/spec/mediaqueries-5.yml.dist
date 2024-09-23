@@ -271,4 +271,5 @@ compat_features:
   # ⬇️ Same status as overall feature ⬇️
   # baseline: false
   # support: {}
+  - css.at-rules.custom-media
   - css.at-rules.media.prefers-reduced-data
