@@ -1,0 +1,8 @@
+name: list-style
+description: List style properties specify marker, or bullet, type and marker position.
+spec: https://drafts.csswg.org/css2/#lists
+compat_features:
+  - css.properties.list-style-image
+  - css.properties.list-style-position
+  - css.properties.list-style-type
+  - css.properties.list-style
