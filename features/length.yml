@@ -1,0 +1,7 @@
+name: length
+description: The `length` CSS type contains values representing distance. Distance values can be expressed in font-relative units such as `em`, viewport-relative units such as `vw`, or absolute units such as `px`. The `length-percentage` CSS type contains distance or percentage values.
+spec: https://drafts.csswg.org/css-values-4/#frequency
+group: css
+compat_features:
+  - css.types.length
+  - css.types.length-percentage

@@ -1,0 +1,7 @@
+name: angle
+description: The `angle` CSS type contains values representing a portion of a circle, expressed in units such as `deg`, `rad`, or `turn`. The `angle-percentage` CSS type contains angle or percentage values.
+spec: https://drafts.csswg.org/css-values-4/#angles
+group: css
+compat_features:
+  - css.types.angle
+  - css.types.angle-percentage

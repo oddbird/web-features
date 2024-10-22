@@ -1,0 +1,6 @@
+name: dimension
+description: The `dimension` CSS type represents a numeric value in specific units. Dimensions can represent distances, angles, frequencies, durations and other values.
+spec: https://drafts.csswg.org/css-values-4/#dimensions
+group: css
+compat_features:
+  - css.types.dimension
