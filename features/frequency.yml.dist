@@ -7,3 +7,5 @@ status:
 compat_features:
   - css.types.frequency
   - css.types.frequency-percentage
+  - css.types.frequency.hz
+  - css.types.frequency.khz
