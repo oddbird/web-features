@@ -1,5 +1,5 @@
 name: time
-description: The `time` CSS type contains values representing a duration, expressed in seconds or milliseconds. The `time-percentage` CSS type contains duration or percentage values.
+description: The `time` CSS type represents a duration, expressed in seconds (`s`) or milliseconds (`ms`). The `time-percentage` CSS type represents a duration or percentage values.
 spec: https://drafts.csswg.org/css-values-4/#time-value
 group: css
 compat_features:

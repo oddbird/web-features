@@ -1,5 +1,5 @@
 name: frequency
-description: The `frequency` CSS type contains values representing frequency, expressed in `Hz`, or `kHz`. The `frequency-percentage` CSS type contains freuqnecy or percentage values.
+description: The `frequency` CSS type represents a frequency value, expressed in hertz (`Hz`), or  kilohertz (`kHz`). The `frequency-percentage` CSS type represents a frequency or percentage values.
 spec: https://drafts.csswg.org/css-values-4/#frequency
 group: css
 compat_features:
