@@ -7,7 +7,6 @@ status:
   compute_from: css.types.calc
 compat_features:
   - css.types.calc
-  - css.types.calc.color_component
   - css.types.calc.gradient_color_stops
   - css.types.calc.nested
   - css.types.calc.number_values
