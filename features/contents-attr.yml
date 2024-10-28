@@ -1,0 +1,7 @@
+name: "contents: attr()"
+description: "The `contents: attr()` CSS declaration sets an element's contents to the value of the specified attribute."
+spec: https://drafts.csswg.org/css-values-5/#attr-notation
+caniuse: css-gencontent
+group: css
+compat_features:
+  - css.types.attr
