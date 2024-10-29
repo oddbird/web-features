@@ -4,6 +4,8 @@ spec: https://drafts.csswg.org/css-values-5/#attr-notation
 caniuse: css3-attr
 group: css
 compat_features:
+  # The css.types.attr key makes sense here but is already used in `contents-attr`
+  #- css.types.attr
   - css.types.attr.fallback
   - css.types.attr.type-or-unit
   - css.types.attr.type-or-unit.angle
