@@ -14,11 +14,6 @@ module.exports = function (eleventyConfig) {
     linkify: true,
   };
   eleventyConfig.setLibrary("md", markdownIt(mdOpts).use(markdownItAnchor));
-  eleventyConfig.addGlobalData("features", async () => {
-    // Requires build from root- `cd ..; npm run build`.
-    const { features } = await import('../packages/web-features/index.js')
-    return Object.keys(features).map(id=> ({...features[id], id}));
-  });
 
   return {
     dir: {
